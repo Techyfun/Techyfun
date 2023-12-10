@@ -1,5 +1,5 @@
 <h1 align="left" id="title">:wave: Hello there! I'm Sajjad Hossain</h1>
-<h3 align="left">I am a freelance WordPrress Developer </h3>
+<h3 align="left">I am a freelance Web Developer </h3>
 
 <a href="https://shweb.me">
   <img src="https://i.postimg.cc/Gp71mxpd/developer.png" alt="Sajjad Hossain" align="right" />
@@ -192,4 +192,4 @@
 </table>
 <!-- links -->
 
-[linkedin]: https://www.linkedin.com/in/freelancewordpressdeveloper/ "Sajjad on LinkedIn"
+[linkedin]: https://www.linkedin.com/in/websolutionmaster "Sajjad on LinkedIn"
